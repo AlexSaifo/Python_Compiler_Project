@@ -1,0 +1,15 @@
+x = 0
+y = 2 #asdf
+x >>= 1 * 8**2 + False / True and not y ^ True
+
+for i in range(5):
+    pass
+
+z = 10
+
+def f():
+    # nonlocal v
+    yield x
+    print("hi")
+    print(1, c)
+    return 0
